@@ -76,6 +76,4 @@ I am eager to collaborate on innovative projects and open-source initiatives tha
 
 [![](https://visitcount.itsvg.in/api?id=shaimaa-alrajeh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ![Snake animation](https://github.com/shaimaa-alrajeh/shaimaa-alrajeh/blob/output/github-contribution-grid-snake.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaimaa-alrajeh&hide_progress=true)
 
