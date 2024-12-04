@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋! I'm Shaimaa AlRajeh</h1>
 
-<h3 align="center"><i>AI Engenering and Front-End Developer</i></h3>
+<h3 align="center"><i>AI Engenering and MERN Stack Developer</i></h3>
 <h4>👀 I’m interested in artificial intelligence, full-stack development, scientific research</h4>
 <h4>✨ I’m diving deeper into React and learning its advanced topics to enhance my frontend development skills.</h4>
 <h4>🌱 I’m currently exploring advanced techniques in machine learning, Deep Learning, and computer vision.</h4>
@@ -16,7 +16,7 @@
 
 # 💫 About Me:
 <p>
-I am a passionate computer engineer specializing in Artificial Intelligence, with a strong foundation in machine learning, deep learning, computer vision, and data mining. Alongside my expertise in AI, I am a full-stack developer with a keen interest in React, where I’m continuously exploring advanced concepts to create dynamic and user-friendly web applications.  
+I am a passionate information technology engineer specializing in Artificial Intelligence, with a strong foundation in machine learning, deep learning, computer vision, and data mining. Alongside my expertise in AI, I am a full-stack developer with a keen interest in React, where I’m continuously exploring advanced concepts to create dynamic and user-friendly web applications.  
 </p>
 <p>
 I have a love for scientific research and enjoy tackling complex challenges by blending creativity and technology to deliver impactful solutions. 
