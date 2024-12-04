@@ -63,6 +63,7 @@ I am eager to collaborate on innovative projects and open-source initiatives tha
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD3D2.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Vite](https://img.shields.io/badge/vite-%231c1c1c.svg?style=for-the-badge&logo=vite&logoColor=F7DF1E) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
