@@ -79,5 +79,7 @@ I am eager to collaborate on innovative projects and open-source initiatives tha
 ---
 # 📈 GitHub Activity Graph:
 ![Your Contribution Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shaimaa-alrajeh&theme=react-dark)
+
 
 
