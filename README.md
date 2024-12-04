@@ -77,5 +77,7 @@ I am eager to collaborate on innovative projects and open-source initiatives tha
 [![](https://visitcount.itsvg.in/api?id=shaimaa-alrajeh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
+# 📈 GitHub Activity Graph:
 
-![Your Contribution Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
