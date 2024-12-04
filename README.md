@@ -79,5 +79,5 @@ I am eager to collaborate on innovative projects and open-source initiatives tha
 ---
 # 📈 GitHub Activity Graph:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaimaa-alrajeh&show_icons=true&theme=radical)
 
