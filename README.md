@@ -7,6 +7,8 @@
 <h4>💞️ I’m looking to collaborate on innovative projects blending AI, web development, and research.</h4>
 <div align="center">
 
+---
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaimaa-alrajeh-762a05213/)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:clebiomojunior@gmail.com)](shaimaa.alrajeh@gmail.com)&nbsp;&nbsp;
 
